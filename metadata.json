@@ -1,0 +1,6 @@
+{
+  "name": "SouqOman - Premium Marketplace & Real-Time Trading",
+  "description": "Modern Oman marketplace to buy and sell places, cars, PlayStation consoles, video games, and more with instant discount negotiations, verified buyer reviews, real-time messaging, and secure escrow payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
